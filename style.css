@@ -29,43 +29,43 @@ h1{
     cursor: pointer;
 }
 .w{
-    background-image: url(images/crash.png);
+    background-image: url(crash.png);
     width: 150px;
     height: 150px;
     justify-content: center;
 }
 .a{
-    background-image: url(images/kick.png);
+    background-image: url(kick.png);
     width: 150px;
     height: 150px;
     justify-content: center;
 }
 .s{
-    background-image: url(images/snare.png);
+    background-image: url(snare.png);
     width: 150px;
     height: 150px;
     justify-content: center;
 }
 .d{
-    background-image: url(images/tom1.png);
+    background-image: url(tom1.png);
     width: 150px;
     height: 150px;
     justify-content: center;
 }
 .j{
-    background-image: url(images/tom2.png);
+    background-image: url(tom2.png);
     width: 150px;
     height: 150px;
     justify-content: center;
 }
 .k{
-    background-image: url(images/tom3.png);
+    background-image: url(tom3.png);
     width: 150px;
     height: 150px;
     justify-content: center;
 }
 .l{
-    background-image: url(images/tom4.png);
+    background-image: url(tom4.png);
     width: 150px;
     height: 150px;
     justify-content: center;
